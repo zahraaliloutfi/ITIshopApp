@@ -65,7 +65,7 @@ class _NavigationState extends State<Navigation> {
             icon: Icon(
               Icons.shopping_bag,
             ),
-            label: 'Sections',
+            label: 'Desserts',
           ),
           BottomNavigationBarItem(
             icon: Icon(

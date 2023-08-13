@@ -1,4 +1,3 @@
-import 'package:chat_application/auth_pages/sign_up_screen.dart';
 import 'package:chat_application/onboarding_pages.dart/on_boarding_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -21,13 +20,6 @@ class ScholarApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: OnBoardingScreen(),
-      // routes: {
-      //   'LoginPage': (context) => const LoginPage(),
-      //   RegisterPage.id: (context) => const RegisterPage(),
-
-      // },
-      // debugShowCheckedModeBanner: false,
-      // initialRoute: const SignInWithGoogleScreen(),
     );
   }
 }

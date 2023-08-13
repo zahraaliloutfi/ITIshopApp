@@ -107,7 +107,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     ),
                   ),
                   const Text(
-                    'My Details :',
+                    'My Account :',
                     style: TextStyle(
                       fontSize: 19,
                       fontWeight: FontWeight.bold,
