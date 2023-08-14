@@ -314,7 +314,8 @@ class _SignUpPageState extends State<SignUpPage> {
 
                                       'image6':
                                           'https://crumbl.video/cdn-cgi/image/width=1920,quality=80/https://crumbl.video/9335d417-391f-4099-8f25-f1adc7cc355e_LemonBar_Aerial_Crumb_Tech.png',
-                                      'description6': 'description  bbbbbbb',
+                                      'description6':
+                                          'cokkies filled with lemon flavor',
                                       'dessartName6': 'Lemon Bar',
 
                                       // 'image10':
